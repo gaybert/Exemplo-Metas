@@ -1,0 +1,5 @@
+﻿Fase,Cidade,Tipo,Subetapa,Meta,Unidade,Valor Planejado (R$),Período Início,Período Fim,Status
+1,Monte Verde,Motorista,Prospecção,4,motoristas,420,01/08,14/08,Em andamento
+1,Bandeirantes,Motorista,Prospecção,6,motoristas,420,01/08,14/08,Concluída
+1,Monte Verde,Passageiro,Corridas,20,corridas,700,16/08,14/09,Em andamento
+...,...,...,...,...,...,...,...,...,...
